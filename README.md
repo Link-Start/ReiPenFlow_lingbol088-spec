@@ -121,6 +121,12 @@ All tests passed.
 - 授权漏洞复现与报告
 - 自有代码或本地靶场的安全评估
 
+- ## 交流群聊发布页
+- <QQ> 252452778 (非本人运营）
+- <发布分享频道> https://t.me/zxwnai 
+  <闲聊技术交流吹水群聊> https://t.me/zxwnaisui
+
+
 ## 许可证
 
 MIT License，见 [LICENSE](LICENSE)。
