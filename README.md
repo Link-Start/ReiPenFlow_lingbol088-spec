@@ -133,8 +133,10 @@ All tests passed.
 - <闲聊技术交流吹水群聊> https://t.me/zxwnaisui
 
   
+## 赞助和打赏喵
+ -爱发电 https://ifdian.net/a/zxwn520
 
-
+ 
 ## 许可证
 
 MIT License，见 [LICENSE](LICENSE)。
